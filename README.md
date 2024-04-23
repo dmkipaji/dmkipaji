@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dmkipaji
+- 👋 Hi, I’m @mohamedi
 - 👀 I’m interested in Android, Python and PHP
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on EveryTime
-- 📫 Email me at dmkipaji@gmail.com
+- 📫 Email me at mohamedinyangalio@gmail.com
 
 <!---
-dmkipaji/dmkipaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mohamedi/mohamedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
